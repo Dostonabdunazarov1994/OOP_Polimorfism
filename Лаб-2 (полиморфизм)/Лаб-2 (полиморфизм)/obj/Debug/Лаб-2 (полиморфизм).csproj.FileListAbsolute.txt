@@ -1,0 +1,54 @@
+C:\Users\Acer\Desktop\Лаб-2 (полиморфизм)\Лаб-2 (полиморфизм)\bin\Debug\Лаб-2 (полиморфизм).exe.config
+C:\Users\Acer\Desktop\Лаб-2 (полиморфизм)\Лаб-2 (полиморфизм)\bin\Debug\Лаб-2 (полиморфизм).exe
+C:\Users\Acer\Desktop\Лаб-2 (полиморфизм)\Лаб-2 (полиморфизм)\bin\Debug\Лаб-2 (полиморфизм).pdb
+C:\Users\Acer\Desktop\Лаб-2 (полиморфизм)\Лаб-2 (полиморфизм)\obj\Debug\Лаб-2 (полиморфизм).csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\Лаб-2 (полиморфизм)\Лаб-2 (полиморфизм)\obj\Debug\Лаб_2__полиморфизм_.Form1.resources
+C:\Users\Acer\Desktop\Лаб-2 (полиморфизм)\Лаб-2 (полиморфизм)\obj\Debug\Лаб_2__полиморфизм_.Properties.Resources.resources
+C:\Users\Acer\Desktop\Лаб-2 (полиморфизм)\Лаб-2 (полиморфизм)\obj\Debug\Лаб-2 (полиморфизм).csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\Лаб-2 (полиморфизм)\Лаб-2 (полиморфизм)\obj\Debug\Лаб-2 (полиморфизм).exe
+C:\Users\Acer\Desktop\Лаб-2 (полиморфизм)\Лаб-2 (полиморфизм)\obj\Debug\Лаб-2 (полиморфизм).pdb
+C:\Users\Acer\Desktop\Лаб-2 (полиморфизм)\Лаб-2 (полиморфизм)\obj\Debug\Лаб_2__полиморфизм_.Info.resources
+C:\Users\Acer\Desktop\Лаб-2 (полиморфизм)\Лаб-2 (полиморфизм)\obj\Debug\Лаб_2__полиморфизм_.Crossing.resources
+C:\Users\Acer\Desktop\Лаб-2 (полиморфизм)\Лаб-2 (полиморфизм)\obj\Debug\Лаб_2__полиморфизм_.Equal.resources
+C:\Users\Acer\Desktop\Лаб-2 (полиморфизм)\Лаб-2 (полиморфизм)\obj\Debug\Лаб_2__полиморфизм_.ZeroIn.resources
+C:\Users\Acer\Desktop\ОП-лабы\Лаб-2 (полиморфизм)\Лаб-2 (полиморфизм)\bin\Debug\Лаб-2 (полиморфизм).exe.config
+C:\Users\Acer\Desktop\ОП-лабы\Лаб-2 (полиморфизм)\Лаб-2 (полиморфизм)\bin\Debug\Лаб-2 (полиморфизм).exe
+C:\Users\Acer\Desktop\ОП-лабы\Лаб-2 (полиморфизм)\Лаб-2 (полиморфизм)\bin\Debug\Лаб-2 (полиморфизм).pdb
+C:\Users\Acer\Desktop\ОП-лабы\Лаб-2 (полиморфизм)\Лаб-2 (полиморфизм)\obj\Debug\Лаб-2 (полиморфизм).csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\ОП-лабы\Лаб-2 (полиморфизм)\Лаб-2 (полиморфизм)\obj\Debug\Лаб_2__полиморфизм_.Crossing.resources
+C:\Users\Acer\Desktop\ОП-лабы\Лаб-2 (полиморфизм)\Лаб-2 (полиморфизм)\obj\Debug\Лаб_2__полиморфизм_.Equal.resources
+C:\Users\Acer\Desktop\ОП-лабы\Лаб-2 (полиморфизм)\Лаб-2 (полиморфизм)\obj\Debug\Лаб_2__полиморфизм_.Form1.resources
+C:\Users\Acer\Desktop\ОП-лабы\Лаб-2 (полиморфизм)\Лаб-2 (полиморфизм)\obj\Debug\Лаб_2__полиморфизм_.Info.resources
+C:\Users\Acer\Desktop\ОП-лабы\Лаб-2 (полиморфизм)\Лаб-2 (полиморфизм)\obj\Debug\Лаб_2__полиморфизм_.Properties.Resources.resources
+C:\Users\Acer\Desktop\ОП-лабы\Лаб-2 (полиморфизм)\Лаб-2 (полиморфизм)\obj\Debug\Лаб_2__полиморфизм_.ZeroIn.resources
+C:\Users\Acer\Desktop\ОП-лабы\Лаб-2 (полиморфизм)\Лаб-2 (полиморфизм)\obj\Debug\Лаб-2 (полиморфизм).csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\ОП-лабы\Лаб-2 (полиморфизм)\Лаб-2 (полиморфизм)\obj\Debug\Лаб-2 (полиморфизм).exe
+C:\Users\Acer\Desktop\ОП-лабы\Лаб-2 (полиморфизм)\Лаб-2 (полиморфизм)\obj\Debug\Лаб-2 (полиморфизм).pdb
+D:\rabstol\ОП-лабы\Лаб-2 (полиморфизм)\Лаб-2 (полиморфизм)\bin\Debug\Лаб-2 (полиморфизм).exe.config
+D:\rabstol\ОП-лабы\Лаб-2 (полиморфизм)\Лаб-2 (полиморфизм)\bin\Debug\Лаб-2 (полиморфизм).exe
+D:\rabstol\ОП-лабы\Лаб-2 (полиморфизм)\Лаб-2 (полиморфизм)\bin\Debug\Лаб-2 (полиморфизм).pdb
+D:\rabstol\ОП-лабы\Лаб-2 (полиморфизм)\Лаб-2 (полиморфизм)\obj\Debug\Лаб-2 (полиморфизм).csprojAssemblyReference.cache
+D:\rabstol\ОП-лабы\Лаб-2 (полиморфизм)\Лаб-2 (полиморфизм)\obj\Debug\Лаб_2__полиморфизм_.Crossing.resources
+D:\rabstol\ОП-лабы\Лаб-2 (полиморфизм)\Лаб-2 (полиморфизм)\obj\Debug\Лаб_2__полиморфизм_.Equal.resources
+D:\rabstol\ОП-лабы\Лаб-2 (полиморфизм)\Лаб-2 (полиморфизм)\obj\Debug\Лаб_2__полиморфизм_.Form1.resources
+D:\rabstol\ОП-лабы\Лаб-2 (полиморфизм)\Лаб-2 (полиморфизм)\obj\Debug\Лаб_2__полиморфизм_.Info.resources
+D:\rabstol\ОП-лабы\Лаб-2 (полиморфизм)\Лаб-2 (полиморфизм)\obj\Debug\Лаб_2__полиморфизм_.Properties.Resources.resources
+D:\rabstol\ОП-лабы\Лаб-2 (полиморфизм)\Лаб-2 (полиморфизм)\obj\Debug\Лаб_2__полиморфизм_.ZeroIn.resources
+D:\rabstol\ОП-лабы\Лаб-2 (полиморфизм)\Лаб-2 (полиморфизм)\obj\Debug\Лаб-2 (полиморфизм).csproj.GenerateResource.cache
+D:\rabstol\ОП-лабы\Лаб-2 (полиморфизм)\Лаб-2 (полиморфизм)\obj\Debug\Лаб-2 (полиморфизм).csproj.CoreCompileInputs.cache
+D:\rabstol\ОП-лабы\Лаб-2 (полиморфизм)\Лаб-2 (полиморфизм)\obj\Debug\Лаб-2 (полиморфизм).exe
+D:\rabstol\ОП-лабы\Лаб-2 (полиморфизм)\Лаб-2 (полиморфизм)\obj\Debug\Лаб-2 (полиморфизм).pdb
+D:\Учеба\rabstol\ОП-лабы\Лаб-2 (полиморфизм)\Лаб-2 (полиморфизм)\bin\Debug\Лаб-2 (полиморфизм).exe.config
+D:\Учеба\rabstol\ОП-лабы\Лаб-2 (полиморфизм)\Лаб-2 (полиморфизм)\bin\Debug\Лаб-2 (полиморфизм).exe
+D:\Учеба\rabstol\ОП-лабы\Лаб-2 (полиморфизм)\Лаб-2 (полиморфизм)\bin\Debug\Лаб-2 (полиморфизм).pdb
+D:\Учеба\rabstol\ОП-лабы\Лаб-2 (полиморфизм)\Лаб-2 (полиморфизм)\obj\Debug\Лаб-2 (полиморфизм).csprojAssemblyReference.cache
+D:\Учеба\rabstol\ОП-лабы\Лаб-2 (полиморфизм)\Лаб-2 (полиморфизм)\obj\Debug\Лаб_2__полиморфизм_.Crossing.resources
+D:\Учеба\rabstol\ОП-лабы\Лаб-2 (полиморфизм)\Лаб-2 (полиморфизм)\obj\Debug\Лаб_2__полиморфизм_.Equal.resources
+D:\Учеба\rabstol\ОП-лабы\Лаб-2 (полиморфизм)\Лаб-2 (полиморфизм)\obj\Debug\Лаб_2__полиморфизм_.Form1.resources
+D:\Учеба\rabstol\ОП-лабы\Лаб-2 (полиморфизм)\Лаб-2 (полиморфизм)\obj\Debug\Лаб_2__полиморфизм_.Info.resources
+D:\Учеба\rabstol\ОП-лабы\Лаб-2 (полиморфизм)\Лаб-2 (полиморфизм)\obj\Debug\Лаб_2__полиморфизм_.Properties.Resources.resources
+D:\Учеба\rabstol\ОП-лабы\Лаб-2 (полиморфизм)\Лаб-2 (полиморфизм)\obj\Debug\Лаб_2__полиморфизм_.ZeroIn.resources
+D:\Учеба\rabstol\ОП-лабы\Лаб-2 (полиморфизм)\Лаб-2 (полиморфизм)\obj\Debug\Лаб-2 (полиморфизм).csproj.GenerateResource.cache
+D:\Учеба\rabstol\ОП-лабы\Лаб-2 (полиморфизм)\Лаб-2 (полиморфизм)\obj\Debug\Лаб-2 (полиморфизм).csproj.CoreCompileInputs.cache
+D:\Учеба\rabstol\ОП-лабы\Лаб-2 (полиморфизм)\Лаб-2 (полиморфизм)\obj\Debug\Лаб-2 (полиморфизм).exe
+D:\Учеба\rabstol\ОП-лабы\Лаб-2 (полиморфизм)\Лаб-2 (полиморфизм)\obj\Debug\Лаб-2 (полиморфизм).pdb
